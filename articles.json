@@ -8,6 +8,13 @@
   },
   {
     "finding": "effective",
+    "title": "Community Use Of Face Masks And COVID-19: Evidence From A Natural Experiment Of State Mandates In The US",
+    "url": "https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.00818",
+    "quote": "\"Mandating face mask use in public is associated with a decline in the daily COVID-19 growth rate by 0.9, 1.1, 1.4, 1.7, and 2.0 percentage points in 1–5, 6–10, 11–15, 16–20, and 21 or more days after state face mask orders were signed, respectively\"",
+    "pub": "Jun 2020"
+  },
+  {
+    "finding": "effective",
     "title": "Trends in County-Level COVID-19 Incidence in Counties With and Without a Mask Mandate — Kansas, June 1–August 23, 2020",
     "url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6947e2.htm",
     "quote": "\"After July 3, COVID-19 incidence decreased in 24 counties with mask mandates but continued to increase in 81 counties without mask mandates\"",
