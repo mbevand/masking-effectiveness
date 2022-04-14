@@ -33,7 +33,7 @@ def main():
 
 ### List:
 ''')
-    papers = sorted(papers, key=lambda p: datetime.datetime.strptime(p['pub'], '%b %Y'))
+    papers = sorted(papers, reverse=True, key=lambda p: datetime.datetime.strptime(p['pub'], '%b %Y'))
     for (i, p) in enumerate(papers):
         print(f'{i + 1}. {p["url"]} ({p["pub"]})  \n  {p["title"]}  \n  {sym(p["finding"])} {p["quote"]}\n')
 
