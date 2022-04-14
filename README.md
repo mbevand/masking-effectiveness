@@ -2,8 +2,8 @@
 
 # List of all peer-reviewed studies evaluating face mask effectiveness against COVID-19
 
-* **19 studies in total**
-* 16 find face masks are generally effective (:heavy_check_mark:)
+* **20 studies in total**
+* 17 find face masks are generally effective (:heavy_check_mark:)
 * 1 find face masks are inconclusive (:question:)
 * 2 find face masks are generally ineffective (:no_entry_sign:)
 
@@ -89,7 +89,11 @@
   Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China  
   :heavy_check_mark: "The study confirms the highest risk of transmission prior to symptom onset, and provides the first evidence of the effectiveness of mask use"
 
-19. https://www.journalofinfection.com/article/S0163-4453(20)30235-8/fulltext (Apr 2020)  
+19. https://academic.oup.com/cid/article/71/16/2139/5848814 (May 2020)  
+  Surgical Mask Partition Reduces the Risk of Noncontact Transmission in a Golden Syrian Hamster Model for Coronavirus Disease 2019 (COVID-19)  
+  :heavy_check_mark: "This is the first in vivo experimental evidence to support the possible benefit of surgical mask in prevention of COVID-19 transmission"
+
+20. https://www.journalofinfection.com/article/S0163-4453(20)30235-8/fulltext (Apr 2020)  
   The role of community-wide wearing of face mask for control of coronavirus disease 2019 (COVID-19) epidemic due to SARS-CoV-2  
   :heavy_check_mark: "Community-wide mask wearing may contribute to the control of COVID-19"
 
