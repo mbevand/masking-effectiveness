@@ -141,6 +141,13 @@
   },
   {
     "finding": "effective",
+    "title": "Effectiveness of face masks in blocking the transmission of SARS-CoV-2: A preliminary evaluation of masks used by SARS-CoV-2-infected individuals",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264389",
+    "quote": "\"Our findings suggest the blocking of virus transmission by different types of masks and reinforce the use of masks by both infected and non-infected individuals\"",
+    "pub": "Feb 2022"
+  },
+  {
+    "finding": "effective",
     "title": "State-Level Masking Mandates and COVID-19 Outcomes in the United States",
     "url": "https://journals.lww.com/epidem/Fulltext/2022/03000/State_Level_Masking_Mandates_and_COVID_19_Outcomes.10.aspx",
     "quote": "\"After 60 days and at a national level, early implementation [of masking mandates] was associated with a 9% reduction in new COVID-19 cases (aRR = 0.91 [95% CI = 0.88, 0.95]) and a 16% reduction in new COVID-19 deaths (aRR = 0.84 [95% CI = 0.76, 0.93])\"",
