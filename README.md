@@ -2,8 +2,8 @@
 
 # List of all peer-reviewed studies evaluating face mask effectiveness against COVID-19
 
-* **20 studies in total**
-* 17 find face masks are generally effective (:heavy_check_mark:)
+* **21 studies in total**
+* 18 find face masks are generally effective (:heavy_check_mark:)
 * 1 find face masks are inconclusive (:question:)
 * 2 find face masks are generally ineffective (:no_entry_sign:)
 
@@ -96,4 +96,8 @@
 20. https://www.journalofinfection.com/article/S0163-4453(20)30235-8/fulltext (Apr 2020)  
   The role of community-wide wearing of face mask for control of coronavirus disease 2019 (COVID-19) epidemic due to SARS-CoV-2  
   :heavy_check_mark: "Community-wide mask wearing may contribute to the control of COVID-19"
+
+21. https://www.sciencedirect.com/science/article/pii/S2468042720300117 (Apr 2020)  
+  To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic  
+  :heavy_check_mark: "broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19"
 
