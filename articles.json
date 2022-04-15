@@ -134,6 +134,13 @@
   },
   {
     "finding": "effective",
+    "title": "Effectiveness of Face Mask or Respirator Use in Indoor Public Settings for Prevention of SARS-CoV-2 Infection — California, February–December 2021",
+    "url": "https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm",
+    "quote": "\"Consistent use of a face mask or respirator in indoor public settings was associated with lower odds of a positive SARS-CoV-2 test result (adjusted odds ratio = 0.44)\"",
+    "pub": "Feb 2022"
+  },
+  {
+    "finding": "effective",
     "title": "State-Level Masking Mandates and COVID-19 Outcomes in the United States",
     "url": "https://journals.lww.com/epidem/Fulltext/2022/03000/State_Level_Masking_Mandates_and_COVID_19_Outcomes.10.aspx",
     "quote": "\"After 60 days and at a national level, early implementation [of masking mandates] was associated with a 9% reduction in new COVID-19 cases (aRR = 0.91 [95% CI = 0.88, 0.95]) and a 16% reduction in new COVID-19 deaths (aRR = 0.84 [95% CI = 0.76, 0.93])\"",
