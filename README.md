@@ -2,8 +2,8 @@
 
 # List of all peer-reviewed studies evaluating face mask effectiveness against COVID-19
 
-* **23 studies in total**
-* 20 find face masks are generally effective (:heavy_check_mark:)
+* **24 studies in total**
+* 21 find face masks are generally effective (:heavy_check_mark:)
 * 1 find face masks are inconclusive (:question:)
 * 2 find face masks are generally ineffective (:no_entry_sign:)
 
@@ -81,31 +81,35 @@
   Mask-wearing and control of SARS-CoV-2 transmission in the USA: a cross-sectional study  
   :heavy_check_mark: "The widespread reported use of face masks combined with physical distancing increases the odds of SARS-CoV-2 transmission control"
 
-17. https://www.cdc.gov/mmwr/volumes/69/wr/mm6947e2.htm (Nov 2020)  
+17. https://www.pnas.org/doi/full/10.1073/pnas.2015954117 (Dec 2020)  
+  Face masks considerably reduce COVID-19 cases in Germany  
+  :heavy_check_mark: "we conclude that 20 d after becoming mandatory face masks have reduced the number of new infections by around 45%. As economic costs are close to zero compared to other public health measures, masks seem to be a cost-effective means to combat COVID-19"
+
+18. https://www.cdc.gov/mmwr/volumes/69/wr/mm6947e2.htm (Nov 2020)  
   Trends in County-Level COVID-19 Incidence in Counties With and Without a Mask Mandate — Kansas, June 1–August 23, 2020  
   :heavy_check_mark: "After July 3, COVID-19 incidence decreased in 24 counties with mask mandates but continued to increase in 81 counties without mask mandates"
 
-18. https://www.acpjournals.org/doi/10.7326/M20-6817 (Nov 2020)  
+19. https://www.acpjournals.org/doi/10.7326/M20-6817 (Nov 2020)  
   Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers  
   :question: "the findings were inconclusive and cannot definitively exclude a 46% reduction to a 23% increase in infection of mask wearers [...] this trial did not address the effects of masks as source control or as protection in settings where social distancing and other public health measures are not in effect"
 
-19. https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.00818 (Jun 2020)  
+20. https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.00818 (Jun 2020)  
   Community Use Of Face Masks And COVID-19: Evidence From A Natural Experiment Of State Mandates In The US  
   :heavy_check_mark: "Mandating face mask use in public is associated with a decline in the daily COVID-19 growth rate by 0.9, 1.1, 1.4, 1.7, and 2.0 percentage points in 1–5, 6–10, 11–15, 16–20, and 21 or more days after state face mask orders were signed, respectively"
 
-20. https://gh.bmj.com/content/5/5/e002794 (May 2020)  
+21. https://gh.bmj.com/content/5/5/e002794 (May 2020)  
   Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China  
   :heavy_check_mark: "The study confirms the highest risk of transmission prior to symptom onset, and provides the first evidence of the effectiveness of mask use"
 
-21. https://academic.oup.com/cid/article/71/16/2139/5848814 (May 2020)  
+22. https://academic.oup.com/cid/article/71/16/2139/5848814 (May 2020)  
   Surgical Mask Partition Reduces the Risk of Noncontact Transmission in a Golden Syrian Hamster Model for Coronavirus Disease 2019 (COVID-19)  
   :heavy_check_mark: "This is the first in vivo experimental evidence to support the possible benefit of surgical mask in prevention of COVID-19 transmission"
 
-22. https://www.journalofinfection.com/article/S0163-4453(20)30235-8/fulltext (Apr 2020)  
+23. https://www.journalofinfection.com/article/S0163-4453(20)30235-8/fulltext (Apr 2020)  
   The role of community-wide wearing of face mask for control of coronavirus disease 2019 (COVID-19) epidemic due to SARS-CoV-2  
   :heavy_check_mark: "Community-wide mask wearing may contribute to the control of COVID-19"
 
-23. https://www.sciencedirect.com/science/article/pii/S2468042720300117 (Apr 2020)  
+24. https://www.sciencedirect.com/science/article/pii/S2468042720300117 (Apr 2020)  
   To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic  
   :heavy_check_mark: "broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19"
 

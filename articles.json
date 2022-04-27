@@ -50,6 +50,13 @@
   },
   {
     "finding": "effective",
+    "title": "Face masks considerably reduce COVID-19 cases in Germany",
+    "url": "https://www.pnas.org/doi/full/10.1073/pnas.2015954117",
+    "quote": "\"we conclude that 20 d after becoming mandatory face masks have reduced the number of new infections by around 45%. As economic costs are close to zero compared to other public health measures, masks seem to be a cost-effective means to combat COVID-19\"",
+    "pub": "Dec 2020"
+  },
+  {
+    "finding": "effective",
     "title": "Mask-wearing and control of SARS-CoV-2 transmission in the USA: a cross-sectional study",
     "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30293-4/fulltext",
     "quote": "\"The widespread reported use of face masks combined with physical distancing increases the odds of SARS-CoV-2 transmission control\"",
