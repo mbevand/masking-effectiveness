@@ -2,8 +2,8 @@
 
 # List of all peer-reviewed studies evaluating face mask effectiveness against COVID-19
 
-* **25 studies in total**
-* 21 find face masks are generally effective (:heavy_check_mark:)
+* **26 studies in total**
+* 22 find face masks are generally effective (:heavy_check_mark:)
 * 1 find face masks are inconclusive (:question:)
 * 3 find face masks are generally ineffective (:no_entry_sign:)
 
@@ -69,51 +69,55 @@
   Association of Mask Mandates and COVID-19 Case Rates, Hospitalizations, and Deaths in Kansas  
   :heavy_check_mark: "Counties that adopted the July mask mandate in Kansas experienced significantly lower rates of COVID-19 cases, hospitalizations, and deaths compared with those that did not"
 
-14. https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/universal-masking-to-control-healthcareassociated-transmission-of-severe-acute-respiratory-coronavirus-virus-2-sarscov2/FA4E4FFB07E78EFB9A276DA6D0D84B2F (Mar 2021)  
+14. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252315 (Jun 2021)  
+  Association between COVID-19 outcomes and mask mandates, adherence, and attitudes  
+  :heavy_check_mark: "mask mandates are associated with a statistically significant decrease in new cases (-3.55 per 100K), deaths (-0.13 per 100K), and the proportion of hospital admissions (-2.38 percentage points) up to 40 days after the introduction of mask mandates both at the state and county level"
+
+15. https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/universal-masking-to-control-healthcareassociated-transmission-of-severe-acute-respiratory-coronavirus-virus-2-sarscov2/FA4E4FFB07E78EFB9A276DA6D0D84B2F (Mar 2021)  
   Universal masking to control healthcare-associated transmission of severe acute respiratory coronavirus virus 2 (SARS-CoV-2)  
   :heavy_check_mark: "Universal masking with medical face masks was effective in preventing further spread of SARS-CoV-2 in our facility in conjunction with other traditional infection prevention measures"
 
-15. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30985-3/fulltext (Feb 2021)  
+16. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30985-3/fulltext (Feb 2021)  
   Transmission of COVID-19 in 282 clusters in Catalonia, Spain: a cohort study  
   :no_entry_sign: "We observed no association of risk of transmission with reported mask usage by contacts"
 
-16. https://www.cdc.gov/mmwr/volumes/70/wr/mm7006e2.htm (Feb 2021)  
+17. https://www.cdc.gov/mmwr/volumes/70/wr/mm7006e2.htm (Feb 2021)  
   Decline in COVID-19 Hospitalization Growth Rates Associated with Statewide Mask Mandates — 10 States, March–October 2020  
   :heavy_check_mark: "10 sites [...] in states with statewide mask mandates reported a decline in weekly COVID-19–associated hospitalization growth rates by up to 5.6 percentage points for adults aged 18–64 years after mandate implementation, compared with growth rates during the 4 weeks preceding implementation of the mandate"
 
-17. https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30293-4/fulltext (Jan 2021)  
+18. https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30293-4/fulltext (Jan 2021)  
   Mask-wearing and control of SARS-CoV-2 transmission in the USA: a cross-sectional study  
   :heavy_check_mark: "The widespread reported use of face masks combined with physical distancing increases the odds of SARS-CoV-2 transmission control"
 
-18. https://www.pnas.org/doi/full/10.1073/pnas.2015954117 (Dec 2020)  
+19. https://www.pnas.org/doi/full/10.1073/pnas.2015954117 (Dec 2020)  
   Face masks considerably reduce COVID-19 cases in Germany  
   :heavy_check_mark: "we conclude that 20 d after becoming mandatory face masks have reduced the number of new infections by around 45%. As economic costs are close to zero compared to other public health measures, masks seem to be a cost-effective means to combat COVID-19"
 
-19. https://www.cdc.gov/mmwr/volumes/69/wr/mm6947e2.htm (Nov 2020)  
+20. https://www.cdc.gov/mmwr/volumes/69/wr/mm6947e2.htm (Nov 2020)  
   Trends in County-Level COVID-19 Incidence in Counties With and Without a Mask Mandate — Kansas, June 1–August 23, 2020  
   :heavy_check_mark: "After July 3, COVID-19 incidence decreased in 24 counties with mask mandates but continued to increase in 81 counties without mask mandates"
 
-20. https://www.acpjournals.org/doi/10.7326/M20-6817 (Nov 2020)  
+21. https://www.acpjournals.org/doi/10.7326/M20-6817 (Nov 2020)  
   Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers  
   :question: "the findings were inconclusive and cannot definitively exclude a 46% reduction to a 23% increase in infection of mask wearers [...] this trial did not address the effects of masks as source control or as protection in settings where social distancing and other public health measures are not in effect"
 
-21. https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.00818 (Jun 2020)  
+22. https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.00818 (Jun 2020)  
   Community Use Of Face Masks And COVID-19: Evidence From A Natural Experiment Of State Mandates In The US  
   :heavy_check_mark: "Mandating face mask use in public is associated with a decline in the daily COVID-19 growth rate by 0.9, 1.1, 1.4, 1.7, and 2.0 percentage points in 1–5, 6–10, 11–15, 16–20, and 21 or more days after state face mask orders were signed, respectively"
 
-22. https://gh.bmj.com/content/5/5/e002794 (May 2020)  
+23. https://gh.bmj.com/content/5/5/e002794 (May 2020)  
   Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China  
   :heavy_check_mark: "The study confirms the highest risk of transmission prior to symptom onset, and provides the first evidence of the effectiveness of mask use"
 
-23. https://academic.oup.com/cid/article/71/16/2139/5848814 (May 2020)  
+24. https://academic.oup.com/cid/article/71/16/2139/5848814 (May 2020)  
   Surgical Mask Partition Reduces the Risk of Noncontact Transmission in a Golden Syrian Hamster Model for Coronavirus Disease 2019 (COVID-19)  
   :heavy_check_mark: "This is the first in vivo experimental evidence to support the possible benefit of surgical mask in prevention of COVID-19 transmission"
 
-24. https://www.journalofinfection.com/article/S0163-4453(20)30235-8/fulltext (Apr 2020)  
+25. https://www.journalofinfection.com/article/S0163-4453(20)30235-8/fulltext (Apr 2020)  
   The role of community-wide wearing of face mask for control of coronavirus disease 2019 (COVID-19) epidemic due to SARS-CoV-2  
   :heavy_check_mark: "Community-wide mask wearing may contribute to the control of COVID-19"
 
-25. https://www.sciencedirect.com/science/article/pii/S2468042720300117 (Apr 2020)  
+26. https://www.sciencedirect.com/science/article/pii/S2468042720300117 (Apr 2020)  
   To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic  
   :heavy_check_mark: "broad adoption of even relatively ineffective face masks may meaningfully reduce community transmission of COVID-19"
 
